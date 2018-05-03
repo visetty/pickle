@@ -1,0 +1,34 @@
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: grey;
+  }
+}
+
+.sidebar h2 {
+  color: teal;
+  font-size: 30px;
+}
+
+.sidebar ul {
+  color: #00FFFF;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.sidebar {
+  float: right;
+  width: 50%;
+  height: 50%;
+}
+
+.mango {
+  color: blue;
+}
+
+.cabbage {
+  color: red;
+}
+.image {
+  width: 70%;
+  height: 50%;
+}
